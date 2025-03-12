@@ -10,12 +10,22 @@ body{
     width: 100%;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background: linear-gradient(45deg, #0a0a0a, #3a4452);
 }
 
+h3{
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFF;
+    font-style: oblique;
+}
+
 .calculator{
+    display: block;
     border: 1px solid #717377;
     padding: 20px;
     border-radius: 16px;
