@@ -34,10 +34,7 @@ input{
     font-size: 40px;
     text-align: right;
     cursor:text;
-<<<<<<< HEAD
     color: #fff;
-=======
->>>>>>> 527a7d0dc92bc0e955da3c2226c5f7900590f91c
 }
 
 input::placeholder{
@@ -64,6 +61,4 @@ button{
 
 .operator{
     color: #6dee0a;
-=======
->>>>>>> 527a7d0dc92bc0e955da3c2226c5f7900590f91c
 }
